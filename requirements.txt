@@ -1,0 +1,10 @@
+numpy
+opencv-python
+filterpy
+flask
+tensorflow
+torch
+asyncio
+pyserial
+RPi.GPIO
+pytest
